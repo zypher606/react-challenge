@@ -1,0 +1,65 @@
+[
+  {
+    "sku": "VIAR01",
+    "name": "PRAX flower vase",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71mBnWeULhL._SY550_.jpg"
+    ],
+    "price": "1,500.00",
+    "is_in_stock": 1
+  },
+  {
+    "sku": "VIAR02",
+    "name": "Black ceramic flower vase",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61GY0RzC1tL._SY879_.jpg"
+    ],
+    "price": "2,500.00",
+    "is_in_stock": 0
+  },
+  {
+    "sku": "VIKR01",
+    "name": "Bajaj toaster",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/716rdDNktpL._SL1500_.jpg"
+    ],
+    "price": "4,200.00",
+    "is_in_stock": 0
+  },
+  {
+    "sku": "VIKR02",
+    "name": "Prestige oven",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/91Q6BY5XafL._SL1500_.jpg"
+    ],
+    "price": "10,299.00",
+    "is_in_stock": 1
+  },
+  {
+    "sku": "MSCK01",
+    "name": "Red onion black seed shampoo",
+    "images": [
+      "https://images-eu.ssl-images-amazon.com/images/I/41gmpDZQnFL._SY300_QL70_ML2_.jpg"
+    ],
+    "price": "500.00",
+    "is_in_stock": 1
+  },
+  {
+    "sku": "VIKR04",
+    "name": "Sujata juicer",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/41DZq0vEINL.jpg"
+    ],
+    "price": "3,499.00",
+    "is_in_stock": 1
+  },
+  {
+    "sku": "VIKR03",
+    "name": "Jocuu juice extractor",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71ItXcsfRPL._AC_SX522_.jpg"
+    ],
+    "price": "8,999.00",
+    "is_in_stock": 0
+  }
+]
