@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "sku": "VIAR01",
     "name": "PRAX flower vase",
     "images": [
@@ -9,6 +10,7 @@
     "is_in_stock": 1
   },
   {
+    "id": 2,
     "sku": "VIAR02",
     "name": "Black ceramic flower vase",
     "images": [
@@ -18,6 +20,7 @@
     "is_in_stock": 0
   },
   {
+    "id": 3,
     "sku": "VIKR01",
     "name": "Bajaj toaster",
     "images": [
@@ -27,6 +30,7 @@
     "is_in_stock": 0
   },
   {
+    "id": 4,
     "sku": "VIKR02",
     "name": "Prestige oven",
     "images": [
@@ -36,6 +40,7 @@
     "is_in_stock": 1
   },
   {
+    "id": 5,
     "sku": "MSCK01",
     "name": "Red onion black seed shampoo",
     "images": [
@@ -45,6 +50,7 @@
     "is_in_stock": 1
   },
   {
+    "id": 6,
     "sku": "VIKR04",
     "name": "Sujata juicer",
     "images": [
@@ -54,6 +60,7 @@
     "is_in_stock": 1
   },
   {
+    "id": 7,
     "sku": "VIKR03",
     "name": "Jocuu juice extractor",
     "images": [
