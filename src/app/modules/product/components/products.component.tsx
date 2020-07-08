@@ -127,7 +127,7 @@ class ProductsComponent extends Component<ProductsComponentState> {
 
             
             
-            <Grid container spacing={3}>
+            <Grid container justify="center" style={{textAlign: "center"}} spacing={3}>
                 {
                   this.state.products
                   .filter((product) => {
