@@ -98,8 +98,9 @@ class ProductsComponent extends Component<ProductsComponentState> {
             <Typography variant="h5" align="center" component="h4">
                     Products
             </Typography>
+            <br></br>
 
-            <Grid container spacing={3}>
+            <Grid container justify="center" spacing={3}>
               <Grid item sm={6} className={classes.gridFlex}>
                 <input
                   type="text"
